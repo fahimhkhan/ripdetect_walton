@@ -11,7 +11,7 @@ pip install opencv-python
 pip install ultralytics
 ```
 
-## ML
+## ML Model
 The ML model pretrainined with rip current data is available here: https://drive.google.com/file/d/1NIx4KXTjMrKJhljrUY03f_UwQPJSYuxr/view?usp=drive_link
 
 ## Usage
@@ -23,7 +23,8 @@ Upon detecting a rip current, the script logs the detection with a timestamp and
 OpenCV (cv2): For handling video stream capture and image processing.
 Ultralytics YOLO: For performing the object detection tasks.
 Datetime and Time: For timestamping detections.
-Execution
+
+## Execution
 To run the script, simply execute it in a Python environment:
 
 ```bash
