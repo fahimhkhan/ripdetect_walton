@@ -1,7 +1,9 @@
 # Rip Current Detection System
 
 ## Overview
-This Python script utilizes advanced object detection techniques for identifying rip currents in video streams. The script employs YOLO (You Only Look Once) v8, a state-of-the-art, real-time object detection system, to analyze video footage and detect the presence of rip currents. This application is particularly useful for enhancing safety measures in beach areas by providing real-time rip current alerts. It is currently configured for rip current form walton lighthouse camera.
+This Python script utilizes advanced object detection techniques for identifying rip currents in video streams. The script employs YOLO (You Only Look Once) v8, a state-of-the-art, real-time object detection system, to analyze video footage and detect the presence of rip currents. This application is particularly useful for enhancing safety measures in beach areas by providing real-time rip current alerts. 
+
+**Note:** This script and associated models are prototypes and are currently configured for rip current detection only from the Walton lighthouse camera. Do not attempt to use it for any other network camera.
 
 ## Installation and Setup
 Before running the script, ensure you have Python installed on your system. The script depends on two primary libraries: OpenCV and Ultralytics YOLO. You can install these dependencies using pip:
