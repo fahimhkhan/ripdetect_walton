@@ -14,7 +14,7 @@ pip install ultralytics
 ```
 
 ## ML Model
-The ML model pretrainined with rip current data is available here: https://drive.google.com/file/d/1NIx4KXTjMrKJhljrUY03f_UwQPJSYuxr/view?usp=drive_link
+The ML model pretrainined with rip current data is available here: https://drive.google.com/drive/folders/1ZM7FOfAbr3yDNliVbZ_LCg7jt3-yucCL?usp=sharing
 
 ## Usage
 The script is designed to continuously process video streams for rip current detection. By default, it connects to an online video stream but can be modified to analyze local video files or other stream URLs.
