@@ -14,7 +14,7 @@ pip install ultralytics
 ```
 
 ## ML Model
-The ML model pretrainined with rip current data is available here: https://drive.google.com/drive/folders/1ZM7FOfAbr3yDNliVbZ_LCg7jt3-yucCL?usp=sharing
+The ML models pretrainined with rip current data is available here: https://drive.google.com/drive/folders/1ZM7FOfAbr3yDNliVbZ_LCg7jt3-yucCL?usp=sharing
 
 ## Usage
 The script is designed to continuously process video streams for rip current detection. By default, it connects to an online video stream but can be modified to analyze local video files or other stream URLs.
@@ -101,5 +101,5 @@ The "licensor" is Regents, and the "software" is the software the licensor makes
 "Use" means anything you do with the software requiring one of your licenses.
 
 ## Acknowledgments
-Thanks to Ultralytics for the YOLO v8 model.
+Thanks to Ultralytics for the YOLOv8 base models.
 Special thanks to OpenCV for their powerful image processing capabilities.
