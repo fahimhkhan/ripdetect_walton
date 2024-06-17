@@ -30,7 +30,11 @@ Datetime and Time: For timestamping detections.
 To run the script, simply execute it in a Python environment:
 
 ```bash
-python rip_current_detection.py
+stream_yolov8_loop.py
+```
+or
+```bash
+stream_yolov8_loop_time.py
 ```
 
 ## Customization
